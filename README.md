@@ -14,3 +14,6 @@ Frontend: Gradio
 Backend: Python, Flask
 
 AI & Music API: Beatoven.ai
+## working pics
+![Screenshot 2025-01-27 210650](https://github.com/user-attachments/assets/2442ba53-45c6-43e7-b9e1-39d991fb5f37)
+
